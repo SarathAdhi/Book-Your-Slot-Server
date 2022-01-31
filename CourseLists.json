@@ -4,14 +4,14 @@
       "id": "1",
       "cname": "English",
       "maxUsers": 30,
-      "regUsers": 30,
+      "regUsers": 28,
       "time": "11.00am"
     },
     {
       "id": "2",
       "cname": "Mathematics",
       "maxUsers": 30,
-      "regUsers": 26,
+      "regUsers": 29,
       "time": "06.00pm"
     },
     {
@@ -32,7 +32,7 @@
       "id": "5",
       "cname": "Social",
       "maxUsers": 30,
-      "regUsers": 30,
+      "regUsers": 29,
       "time": "10.30pm"
     }
   ],
